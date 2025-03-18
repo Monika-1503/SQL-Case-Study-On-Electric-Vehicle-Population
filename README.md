@@ -9,6 +9,10 @@ This project analyzes the **Electric Vehicle Population** dataset using **MySQL 
 - Performance optimization using **Indexes**
 - Data cleaning with `UPDATE` and `DELETE` queries
 
+  ## Preview
+  ![Preview2025-03-09T15_25_07 107Z](https://github.com/user-attachments/assets/9aa2b0c5-7bdd-40de-9bd0-4fa8c6cf735d)
+
+
 ## 📂 Dataset Columns
 | Column Name                        | Description |
 |-------------------------------------|-------------|
